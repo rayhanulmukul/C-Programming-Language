@@ -1,6 +1,7 @@
 ### 1. Online Class (45) + Note
 ### 2. Tamim Shariar Subeen
 * [Youtube](https://www.youtube.com/c/TamimShahriar/featured)
+* https://www.youtube.com/user/dipmessi10/playlists
 ### 3. Anisul Vai C/C++
 * [C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz)
 * [C++](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL)
